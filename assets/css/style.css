@@ -58,7 +58,7 @@ ul.caracteristicas li {
     padding-left: 7rem;
     text-align: center;
     font-size: 1.56rem;
-    background-color: #1E1A13;
+    background-color: #0b6c25;
     opacity: 98%;
     margin-left: 5vh;
     line-height: 7vh;
@@ -66,7 +66,7 @@ ul.caracteristicas li {
 }
 
 .background {
-    background-color: #1E1A13;
+    background-color: #0b6c25;
 }
 
 .fotitos {
@@ -84,7 +84,7 @@ ul.caracteristicas li {
 }
 
 footer {
-    background-color: #1E1A13;
+    background-color: #0b6c25;
     opacity: 94%;
     height: 9vh;
     font-size: 1.5rem;
